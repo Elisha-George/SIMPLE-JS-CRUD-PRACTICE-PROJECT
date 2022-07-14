@@ -5,9 +5,33 @@
     background-size: cover;
     opacity: 100;
 }
+.head_heading{
+    color: white;
+    font-size: 4rem;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+}
 .form_container{
     padding-top:100px;
 }
 .input-group,table{
     margin-top: 30px;
+}
+.input-group{
+
+    width: 500px;
+    height: 40px;
+}
+.input-group-text{
+    width: 100px;
+}
+.btnForm{
+    margin-top: 30px;
+    width: 100px;
+}
+.btnTbl{
+    width: 50px;
+    font-size: 10px;
+    
 }
